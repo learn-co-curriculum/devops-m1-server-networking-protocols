@@ -15,7 +15,7 @@ In this lesson, we will be going over more internet protocols, focusing on proto
 
 **SSH** (Secure Shell) is a network protocol that allows you to remotely connect to a computer and run shell commands on it as if you were using it directly (as we have been thus far). 
 
-To use SSH there are only two requirements: an SSH *client*, on the computer you want to *use*, and an SSH *server*, on the computer you want to remote *into*. Most Linux distributions, Ubuntu included, already ship with an SSH server, so we don't have to worry about doing that setup on our virtual machines.
+To use SSH there are only two requirements: an SSH *client* on the computer you want to *use*, and an SSH *server* on the computer you want to remote *into*. Most Linux distributions, Ubuntu included, already ship with an SSH server, so we don't have to worry about doing that setup on our virtual machines.
 
 Likewise, most operating systems already ship with an SSH client as well, seeing as it is very commonly used. Usage is extremely simple:
 
